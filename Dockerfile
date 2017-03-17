@@ -1,3 +1,4 @@
-FROM devbeta/percona55:latest
+FROM devbeta/apachephp:latest
 
-LABEL jem="1"
+LABEL nodeType="kukha-template"
+LABEL nodeMission="sqldb"
