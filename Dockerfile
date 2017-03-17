@@ -1,4 +1,4 @@
-FROM devbeta/apachephp:2.4.6-php-5.6.28
+FROM devbeta/mysql:5.6.32
 
 LABEL nodeType="kukha-template"
 LABEL nodeMission="sqldb"
